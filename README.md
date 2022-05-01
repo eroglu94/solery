@@ -1,7 +1,7 @@
 # solery.io (Deprecated. Working on successor project)
 
 Solery.io is a NFT Profile page and a Automated Mass Rarity Checker site that lives in SOLANA Network<br /><br />
-If NFT rarity is not found on our database, system will automatically find all minted NFT's in that collection and create rarity list, optimize all images and datas at the same moment<br />
+If NFT rarity is not found on our database, system will automatically search blockchain for all minted NFT's in that collection and create rarity list, optimize all images and datas at the same moment<br />
 Currently our database holds 3 Million NFT Data (Growing as new projects are minted)
 
 Extras: 
